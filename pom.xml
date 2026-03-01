@@ -141,9 +141,9 @@
     <wiremock.version>2.27.2</wiremock.version>
     <xml-resolver.version>1.2</xml-resolver.version>
     <xstream.version>1.4.5</xstream.version>
+    <sonar.organization>myyykyy</sonar.organization>
     <!-- do not update necessary for lesson -->
     <zxcvbn.version>1.5.2</zxcvbn.version>
-    <sonar.organization>myyykyy</sonar.organization>
   </properties>
 
   <dependencyManagement>
